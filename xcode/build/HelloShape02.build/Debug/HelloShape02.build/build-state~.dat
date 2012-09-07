@@ -1,0 +1,197 @@
+THelloShape02
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/HelloShape02.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch.pth HelloShape02_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02App.o /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/../src/HelloShape02App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/MacOS/HelloShape02 normal i386
+cTouch /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000050224CA700000000000000AA
+t1344425127
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000501022E800000000000024F0
+t1343234792
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000501022E80000000000024C14
+t1343234792
+s150548
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000501022E800000000000060B4
+t1343234792
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000501022E900000000000001E5
+t1343234793
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000501022E9000000000000E920
+t1343234793
+s59680
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000501015C300000000000069F0
+t1343231427
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000501015C30000000000006730
+t1343231427
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000501015C70000000000081CB0
+t1343231431
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000501015CF000000000002DAF0
+t1343231439
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000501015D300000000004A2D90
+t1343231443
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000501016CB0000000000322E20
+t1343231691
+s3288608
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/../src/HelloShape02App.cpp
+c000000005049753E00000000000003E8
+t1346991422
+s1000
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/Info.plist
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/MacOS/HelloShape02
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02.LinkFileList
+c000000005049753F0000000000000093
+t1346991423
+s147
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02App.o
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/CinderApp.icns
+c0000000050496818000000000001BEB5
+t1346988056
+s114357
+
+N/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/HelloShape02_Prefix.pch
+c00000000504968180000000000000093
+t1346988056
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c00000000504968180000000000000352
+t1346988056
+s850
+
+CBuild AST from /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/../src/HelloShape02App.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf183abbfacf9b541^8d26afbfacf9b541^---0#1#0#--18"Check dependencies36"B459D59C-6877-4EAC-A2B2-439FEA8AB276-
+
+CCompileC ./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02App.o /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/../src/HelloShape02App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s368684223.843557
+e368684225.671621
+r1
+xCompileC
+x./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02App.o
+x/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/../src/HelloShape02App.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/../src/HelloShape02App.cpp9a0bd8bfacf9b541^7cefabc1acf9b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/../src/HelloShape02App.cpp0000000000000000^2949"CompileC ./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02App.o ../src/HelloShape02App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/HelloShape02-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/HelloShape02-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/HelloShape02-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/HelloShape02-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/build/Debug -include /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch -MMD -MT dependencies -MF /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02App.d --serialize-diagnostics /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02App.dia -c /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/../src/HelloShape02App.cpp -o /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02App.o36"7231DB00-F7E4-4E89-B485-65B7E6F4E912-
+
+CCpResource CinderApp.icns ./build/Debug/HelloShape02.app/Contents/Resources/CinderApp.icns
+s368684223.704716
+e368684223.710189
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/HelloShape02.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy ./build/Debug/HelloShape02.app/Contents/Resources/CinderApp.icnsf182b4bfacf9b541^ddcfb5bfacf9b541^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/Resources/CinderApp.icns000000000080d041^446"CpResource CinderApp.icns ./build/Debug/HelloShape02.app/Contents/Resources/CinderApp.icns    cd /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/CinderApp.icns /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/Resources36"47CA410C-E127-401B-AD0C-3CFB543A0A13-
+
+CLd /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/MacOS/HelloShape02 normal i386
+s368684225.678471
+e368684226.352475
+r1
+xLd
+x/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/MacOS/HelloShape02
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/MacOS/HelloShape02fdc0adc1acf9b541^363b5ac2acf9b541^---0#0#0#--1085"Ld ./build/Debug/HelloShape02.app/Contents/MacOS/HelloShape02 normal i386    cd /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/build/Debug -F/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/build/Debug -filelist /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/Objects-normal/i386/HelloShape02.LinkFileList -mmacosx-version-min=10.5 ../../..//lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/MacOS/HelloShape0236"B3D7597D-5BCA-49E8-AB95-8B61EFA8293D-
+
+CProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/Info.plist Info.plist
+s368684223.691042
+e368684223.696235
+r1
+xProcessInfoPlistFile
+x/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistbd6eb1bfacf9b541^fb3cb2bfacf9b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/Info.plist0000000000000000^453"ProcessInfoPlistFile ./build/Debug/HelloShape02.app/Contents/Info.plist Info.plist    cd /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app/Contents/Info.plist36"F862C4A2-2EAE-400E-8A37-5FD4870F790D-
+
+CProcessPCH++ /Users/synthresin/Library/Developer/Xcode/DerivedData/HelloShape02-awmzmygczdrsnrgysqvzhryhnuce/Index/PrecompiledHeaders/HelloShape02_Prefix-bsfleckfiaziigfkjttnvvrigeqg_ast/HelloShape02_Prefix.pch.pth HelloShape02_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch.pth HelloShape02_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s368684223.718520
+e368684223.836726
+r1
+xProcessPCH++
+x/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch.pth
+xHelloShape02_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile HelloShape02_Prefix.pch5c38b8bfacf9b541^ad33d6bfacf9b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/HelloShape02_Prefix.pch0000000000000000^2927"ProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch.pth HelloShape02_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/HelloShape02-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/HelloShape02-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/HelloShape02-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/HelloShape02-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/HelloShape02.build/Debug/HelloShape02.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/build/Debug --serialize-diagnostics /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch.dia -c /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/HelloShape02_Prefix.pch -o /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloShape02_Prefix-cqblhnpmeqtfsfahqawannbgunoh/HelloShape02_Prefix.pch.d36"800826A6-881A-4153-BA9E-E3B6E6E14285-
+
+CTouch /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app
+s368684226.360456
+e368684226.367781
+r1
+xTouch
+x/Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app2f525cc2acf9b541^6b275ec2acf9b541^---0#0#0#--211"Touch ./build/Debug/HelloShape02.app    cd /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode    /usr/bin/touch -c /Users/synthresin/Desktop/cinder/apps/HelloShape02/xcode/./build/Debug/HelloShape02.app36"1C305EB0-4BEA-45B5-8A9A-4DDC06E45649-
+
