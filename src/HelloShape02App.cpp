@@ -11,19 +11,24 @@ class HelloShape02App : public AppBasic {
   public:
 	void setup();
     void mouseMove( MouseEvent event );
+    void mouseUp  ( MouseEvent event );
 	void mouseDown( MouseEvent event );
 	void mouseDrag( MouseEvent event );
 	void update();
 	void draw();
     
     int mSegment;
-    float mSize;
+    int mSize;
     float mModeDomainY;
+    
+    bool mDraw;
 };
 
 void HelloShape02App::setup()
 {
     mModeDomainY = (float)getWindowHeight() / MODE_NUM;
+    
+    gl::enableAlphaBlending();
     gl::clear( Color( 255, 255, 255 ) );
 }
 
@@ -39,31 +44,39 @@ void HelloShape02App::mouseMove( MouseEvent event )
             mSegment = i + 3;
         }
     }
+    //glLineWidth(1.0f);
 }
+
 
 void HelloShape02App::mouseDown( MouseEvent event )
 {
+    mDraw =true;
     
-    gl::color(255, 0, 0);
-    gl::drawStrokedCircle(getWindowCenter(), 50, mSegment);
+}
+
+void HelloShape02App::mouseUp ( MouseEvent event )
+{
+    mDraw = false;
 }
 
 void HelloShape02App::mouseDrag( MouseEvent event )
 {
     mouseMove(event);
-    mouseDown(event);
+    //mouseDown(event);
 }
 
 void HelloShape02App::update()
 {
-    printf("mSegment: %i \n", mSize);
+    printf("mSegment: %i \n", mSize/200);
 }
 
 void HelloShape02App::draw()
 {
 	// clear out the window with black
 	// gl::clear( Color( 0, 0, 0 ) );
-    
+    gl::color(0, 0, 0, 0.05);
+    if(mDraw)
+    gl::drawStrokedCircle(getWindowCenter(), mSize/200, mSegment);
     
     
 }
